@@ -1,0 +1,8 @@
+pandas
+numpy
+ydata-profiling
+scikit-learn
+plotly
+matplotlib
+scipy
+statsmodels
